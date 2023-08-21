@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kruthartha
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently pursuing B.Tech
-- 💞️ I’m looking to collaborate on a Project for OS development
+- 🌱 I’m currently pursuing B.E
 - 📫 How to reach me https://www.linkedin.com/in/kruthartha/
 
 <!---
