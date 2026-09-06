@@ -19,9 +19,3 @@ I design and engineer complex technical systems, from distributed web architectu
 *   **Backend & Infrastructure:** Node.js, Express, PostgreSQL, MongoDB, MySQL, Secure Sandboxing
 *   **Frontend & Interface:** React, Tailwind CSS, Figma
 *   **Data & Tooling:** NumPy, Pandas, scikit-learn, Git, LaTeX
-
----
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kruthartha&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&text_color=888&title_color=fff" height="150" alt="Language Distribution" />
-</div>
